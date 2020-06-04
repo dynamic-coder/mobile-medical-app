@@ -1,0 +1,30 @@
+export const ADD_DOCTOR = 'ADD_DOCTOR';
+export const GET_DOCTOR = 'GET_DOCTOR';
+export const GET_ONE_DOCTOR = 'GET_ONE_DOCTOR';
+export const UPDATE_DOCTOR = 'UPDATE_DOCTOR';
+export const DELETE_DOCTOR = 'DELETE_DOCTOR';
+
+export const ADD_NURSE = 'ADD_NURSE';
+export const GET_NURSE = 'GET_NURSE';
+export const UPDATE_NURSE = 'UPDATE_NURSE';
+export const DELETE_NURSE = 'DELETE_NURSE';
+
+export const ADD_HOPITAUX = 'ADD_HOPITAUX';
+export const GET_HOPITAUX = 'GET_HOPITAUX';
+export const UPDATE_HOPITAUX = 'UPDATE_HOPITAUX';
+export const DELETE_HOPITAUX = 'DELETE_HOPITAUX';
+
+export const ADD_PHARMACIES = 'ADD_PHARMACIES';
+export const GET_PHARMACIES = 'GET_PHARMACIES';
+export const UPDATE_PHARMACIES = 'UPDATE_PHARMACIES';
+export const DELETE_PHARMACIES = 'DELETE_PHARMACIES';
+
+export const ADD_LABO = 'ADD_LABO';
+export const GET_LABO = 'GET_LABO';
+export const UPDATE_LABO = 'UPDATE_LABO';
+export const DELETE_LABO = 'DELETE_LABO';
+
+export const ADD_AMBULANCES = 'ADD_AMBULANCES';
+export const GET_AMBULANCES = 'GET_AMBULANCES';
+export const UPDATE_AMBULANCES = 'UPDATE_AMBULANCES';
+export const DELETE_AMBULANCES = 'DELETE_AMBULANCES';
